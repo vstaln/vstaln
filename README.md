@@ -1,6 +1,5 @@
 <div align="center">
-
-### Hi there 👋
+  <img alt="Gray" src="assets/gray-logo.svg" width="108" />
 
 # Vstalin Grady
 
@@ -12,7 +11,9 @@ AI Agents · Full-Stack · Applied Research
 
 </div>
 
----
+<div align="center">
+  <img alt="Carina Nebula — cosmic cliffs" src="assets/space/carina-dither.png" width="100%" />
+</div>
 
 ### About
 
@@ -24,12 +25,27 @@ Founder of [caharaya.com](https://caharaya.com) (AI agent for Shopee / TikTok Sh
 
 ### Selected work
 
-- [gray](https://github.com/vstaln/gray) — Minimal, modular AI agent harness
+**[gray](https://github.com/vstaln/gray) — minimal, modular AI agent harness.**
+Tiny core with memory, skills, cron and messaging — add only what you need. One binary, no runtime.
+
+<div align="center">
+  <a href="https://github.com/vstaln/gray">
+    <img alt="gray building an app in the terminal" src="assets/gray-demo.gif" width="100%" />
+  </a>
+  <p><a href="https://gray.alignment.id">gray.alignment.id</a> · <a href="https://github.com/vstaln/gray">GitHub</a> · <code>curl -fsSL https://gray.alignment.id/install.sh | sh</code></p>
+</div>
+
 - [Caharaya](https://caharaya.com) — Scan-fix-watch agent for marketplace storefronts, ops, and financials
 - [noslop](https://github.com/vstaln/noslop) — Structure-first writing skill for agents + local scorer
 - [isthisaislop](https://github.com/vstaln/isthisaislop) — Local checkable-hit detector for AI-style prose
 - [CalmFeed](https://github.com/vstaln/CalmFeed) — Open-source X extension that makes the timeline less miserable for builders
 
+<div align="center">
+  <img alt="Blue Marble" src="assets/space/bluemarble-dither.png" width="31%" />
+  <img alt="Jupiter storm" src="assets/space/jupiter-dither.png" width="31%" />
+  <img alt="Saturn" src="assets/space/saturn-dither.png" width="31%" />
+</div>
+
 ### Stack
 
-`Python` · `TypeScript` · `Next.js` · `FastAPI` · `Genkit` · `Firebase` · `MeiliSearch` · `PostgreSQL`
+`Python` · `TypeScript` · `Next.js` · `FastAPI` · `Genkit` · `Firebase` · `MeiliSearch` · `PostgreSQL` · `Rust`
