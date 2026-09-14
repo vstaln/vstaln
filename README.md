@@ -8,7 +8,8 @@
 </div>
 
 <div align="center">
-  <img alt="Carina Nebula — cosmic cliffs" src="assets/space/carina-dither.png" width="100%" />
+  <img alt="Sunset over the wilderness — art by 诡异童话" src="assets/banner-sunset.jpg" width="100%" />
+  <p><sub>banner art 「黄昏旷野」 by <a href="https://www.pixiv.net/en/artworks/148576784">诡异童话</a></sub></p>
 </div>
 
 **[vstaln/gray](https://github.com/vstaln/gray)**
@@ -45,8 +46,5 @@ No authorship claims, every hit carries a verbatim quote.
 Asks why you're opening X, blurs what you asked it to filter (hostility, doom, rage bait — all opt-in), kicks you off when the timer hits zero. Visits stay in local storage, no servers. Manifest V3, no bundler. Load unpacked, paste a free Gemini key, start a session.
 
 <div align="center">
-  <img alt="Blue Marble" src="assets/space/bluemarble-dither.png" width="31%" />
-  <img alt="Jupiter storm" src="assets/space/jupiter-dither.png" width="31%" />
-  <img alt="Saturn" src="assets/space/saturn-dither.png" width="31%" />
   <p>start small. extend anything.</p>
 </div>
