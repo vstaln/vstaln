@@ -1,15 +1,14 @@
 <div align="center">
-  <img alt="Gray" src="assets/gray-logo.svg" width="108" />
+  <img alt="Sunset over the wilderness — art by 诡异童话" src="assets/banner-sunset.jpg" width="100%" />
+  <p><sub>banner art 「黄昏旷野」 by <a href="https://www.pixiv.net/en/artworks/148576784">诡异童话</a></sub></p>
+</div>
+
+<div align="center">
 
 # vstaln
 
 [gray.alignment.id](https://gray.alignment.id) · [gray on GitHub](https://github.com/vstaln/gray) · [vstal.in](https://vstal.in/) · [LinkedIn](https://www.linkedin.com/in/vstaln/)
 
-</div>
-
-<div align="center">
-  <img alt="Sunset over the wilderness — art by 诡异童话" src="assets/banner-sunset.jpg" width="100%" />
-  <p><sub>banner art 「黄昏旷野」 by <a href="https://www.pixiv.net/en/artworks/148576784">诡异童话</a></sub></p>
 </div>
 
 **[vstaln/gray](https://github.com/vstaln/gray)**
