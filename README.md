@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/vstaln/gray">
-    <img alt="gray building HorseTinder 2014 session replay from gray.alignment.id" src="assets/gray-demo.gif" width="100%" />
+    <img alt="gray building HorseTinder — session replay from gray.alignment.id" src="assets/gray-demo.gif" width="100%" />
   </a>
 
 `curl -fsSL https://gray.alignment.id/install.sh | sh`
