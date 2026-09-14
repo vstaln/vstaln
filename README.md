@@ -24,13 +24,6 @@
 
 </div>
 
-- one binary, musl-static. lands you in a REPL.
-- one tool by default: `bash`. opt into the rest.
-- sessions that survive. JSONL, branchable, resumable.
-- context that compacts itself before you hit the wall.
-- lives where you do: Telegram / Discord / Slack gateway + cron.
-- extend it: `SKILL.md`, stdio plugins, or `/acp` to become claude / codex / opencode.
-
 ### other experiments
 
 **[noslop](https://github.com/vstaln/noslop) — an agent skill for prose that doesn't read like template AI.**
