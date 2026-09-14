@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/vstaln/gray">
-    <img alt="gray building an app in the terminal" src="assets/gray-demo.gif" width="100%" />
+    <img alt="gray building HorseTinder in the terminal" src="assets/gray-demo.gif" width="100%" />
   </a>
 
 `curl -fsSL https://gray.alignment.id/install.sh | sh`
